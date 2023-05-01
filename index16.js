@@ -55,7 +55,7 @@ const sarahTotal = sarahPrices(sarah.pricePerRefill, sarah.refills);
 
 console.log("Your grand total is " + sarahTotal + ".");
 
-//Rocky's subscription costs//
+//Rocky's prescription costs//
 
 const rocky = {
     prescription: "phenylephrine",
